@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-
+# add files data in the dict 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -212,7 +212,7 @@ def display_data(df):
             else:
                 print('You did not enter a valid choice.')
                 return
-    
+
 def main():
     while True:
         city, month, day = get_filters()
