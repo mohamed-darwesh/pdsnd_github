@@ -11,4 +11,4 @@ this project to analysis data from bike application in new York, Chicago and Was
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+this project from Udacity data science nanodegree
