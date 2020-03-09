@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+this project and README file in Monday 9 march 2020.
 
 ### Project Title
-Replace the Project Title
+the Project Title :bikes share
 
 ### Description
-Describe what your project is about and what it does
+this project to analysis data from bike application in new York, Chicago and Washington  
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+this project from Udacity data science nanodegree
